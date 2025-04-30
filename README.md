@@ -15,7 +15,9 @@ Step 7:Train the MLP model on the training data using mlp.fit(X_train, y_train).
 Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
-Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
+Step 11:Plot the error convergence during training using plt.plot() and plt.show().
+<BR>
+
 <H3>Program: </H3>
 ```py
 import numpy as np
