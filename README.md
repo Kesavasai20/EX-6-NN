@@ -66,7 +66,6 @@ print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
 
-```
 
 <H3>Output:</H3>
 
